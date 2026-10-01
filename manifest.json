@@ -71,6 +71,51 @@
       ],
       "ast": [
         "aggregate/ast/cefc875bfdc23660b3d2f79cdcc403f00d94189b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/cefc875bfdc23660b3d2f79cdcc403f00d94189b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "mcp",
+          "ecosystem": "PYPI",
+          "version": "1.13.1",
+          "githubOrg": "modelcontextprotocol",
+          "githubRepo": "python-sdk",
+          "githubCommit": "09e3a05e13211d1081efcdc9a962affb02e40c05",
+          "githubTag": "v1.13.1",
+          "githubUrl": "https://github.com/modelcontextprotocol/python-sdk",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.32.3",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "0e322af87745eff34caffe4df68456ebc20d9068",
+          "githubTag": "v2.32.3",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rich",
+          "ecosystem": "PYPI",
+          "version": "15.0.0",
+          "githubOrg": "Textualize",
+          "githubRepo": "rich",
+          "githubCommit": "6ac483cbea39cab124dfd3483bba70ffafb71050",
+          "githubTag": "v15.0.0",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "jupyter-kernel-client",
+          "ecosystem": "PYPI",
+          "version": "0.8.0",
+          "githubOrg": "datalayer",
+          "githubRepo": "jupyter-kernel-client",
+          "githubUrl": "https://github.com/datalayer/jupyter-kernel-client",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
