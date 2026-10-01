@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "mcp-jupyter",
+  "versions": [
+    {
+      "commit": "cefc875bfdc23660b3d2f79cdcc403f00d94189b",
+      "tag": "main",
+      "parsed_at": "2026-10-01T08:10:40.347513+00:00"
+    }
+  ]
+}
