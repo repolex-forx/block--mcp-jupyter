@@ -116,7 +116,9 @@
           "githubUrl": "https://github.com/datalayer/jupyter-kernel-client",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/cefc875bfdc23660b3d2f79cdcc403f00d94189b/chunk-001.nq.gz",
+      "dep": "dep/cefc875bfdc23660b3d2f79cdcc403f00d94189b.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/mcp-jupyter/commit/cefc875bfdc23660b3d2f79cdcc403f00d94189b",
       "git:hexsha": "cefc875bfdc23660b3d2f79cdcc403f00d94189b",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T08:10:40.273556+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/mcp-jupyter/commit/962d0311679a927334c9e3f55bf232adc84b020a",
